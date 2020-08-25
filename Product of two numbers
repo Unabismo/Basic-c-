@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    float a,b,c;
+    cin >>a>>b;
+    cout << "Enter two numbers: "<<a<<endl<<b<<endl;
+     c=a*b;
+    cout<<"Product= "<<c;     
+}
